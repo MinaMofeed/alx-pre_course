@@ -1,2 +1,1 @@
-My first readme 
-README update form githup.com
+My first readme updated
